@@ -1,5 +1,5 @@
 # AsmPRJ
-# ☕ CoffeeShop Web App
+# CoffeeShop Web App
 
 Ứng dụng quản lý quán cà phê, cho phép khách đặt hàng online, nhân viên xử lý đơn, và quản trị thống kê doanh thu.
 
